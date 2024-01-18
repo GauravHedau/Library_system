@@ -10,7 +10,7 @@ This repository contains the source code for a Library Management System, a web 
 
 The Library Management System is deployed and accessible through the following links:
 
-- **Live Link:** [Library Management System Live](https://library-system-six.vercel.app/)
+- **Live Link:** [Library Management System Live](https://library-system-one.vercel.app/)
 - **GitHub Repository:** [Library Management System GitHub](https://github.com/GauravHedau/Library_system)
 
 ## Features
